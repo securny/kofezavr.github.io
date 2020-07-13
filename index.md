@@ -6,7 +6,7 @@
 
    Актуальное видео:
 
-   [![Кофейные Новости. Выпуск 10. Двадцать самых клёвых кофейных новостей прошедшей недели](https://img.youtube.com/vi/EqsUDJPl71s/0.jpg)](https://www.youtube.com/watch?v=EqsUDJPl71s)
+   [![Кофейные Новости. Выпуск 10. Двадцать самых клёвых кофейных новостей прошедшей недели](https://img.youtube.com/vi/tXBfoNGV9W0/0.jpg)](https://www.youtube.com/watch?v=tXBfoNGV9W0)
 
 # Канал и чат в Телеграме
 
