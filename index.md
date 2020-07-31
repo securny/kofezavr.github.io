@@ -7,7 +7,7 @@
 
    Актуальное видео:
 
-   [![Кофейные Новости. Выпуск 10. Двадцать самых клёвых кофейных новостей прошедшей недели](https://img.youtube.com/vi/tXBfoNGV9W0/0.jpg)](https://www.youtube.com/watch?v=tXBfoNGV9W0)
+   [![Доработка от Synesso / Регулировка потока / Жиклеринг / Задержка пролива Simonelli Oscar 2 и Musica](https://img.youtube.com/vi/qLpv_CvAPPQ/0.jpg)](https://www.youtube.com/watch?v=qLpv_CvAPPQ)
 
 
 # Канал и чат в Телеграме
