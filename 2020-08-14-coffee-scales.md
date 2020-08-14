@@ -1,9 +1,9 @@
 
 # Весы для кофе. Сравнительная таблица 
 
-* Видео "Весы для кофе" на Youtube:
+* Видео "ВЕСЫ ДЛЯ КОФЕ: сравнение, тест, обзор и инструкция как калибровать. Весы TIMEMORE, SMART.Z и др." на Youtube:
 
-   [![Весы для кофе](https://img.youtube.com/vi/YHHWk9ljqKc/0.jpg)](https://www.youtube.com/watch?v=YHHWk9ljqKc)
+   [![ВЕСЫ ДЛЯ КОФЕ: сравнение, тест, обзор и инструкция как калибровать. Весы TIMEMORE, SMART.Z и др.](https://img.youtube.com/vi/YHHWk9ljqKc/0.jpg)](https://www.youtube.com/watch?v=YHHWk9ljqKc)
 
 ----
 
