@@ -10,7 +10,7 @@
 |  | Большие китайские весы |  Маленькие китайские весы | Весы TIMEMORE Black Mirror | Весы SMART.Z  |
 | :------------ | :------------: | :------------: | :------------: | :------------: |
 | __Цена__ (приблизительно) |  1000₽  | 500₽ – 1000₽  |  3500₽ – 4000₽ | 2500₽ |
-| __Где купить?__ |  [Cсылка](https://letyshops.com/r/aliexpress-12197b35747b) | [Весы 0,1 г.](https://letyshops.com/r/aliexpress-d622fe27ef14) [Весы 0,01 г.](https://letyshops.com/r/aliexpress-64ab30a236de) | [Ссылка](https://letyshops.com/r/aliexpress-04f3a0accb4a) | [Ссылка](https://aliexpress.ru/item/4000832725716.html) |
+| __Где купить?__ | [Cсылка](https://letyshops.com/r/aliexpress-12197b35747b) | Ссылки [0,1 г.](https://letyshops.com/r/aliexpress-d622fe27ef14) и [0,01 г.](https://letyshops.com/r/aliexpress-64ab30a236de)| [Ссылка](https://letyshops.com/r/aliexpress-04f3a0accb4a) | [Ссылка](https://aliexpress.ru/item/4000832725716.html) |
 | __Функции:__  |
 | ▫️ Таймер | ✅ | ❌ | ✅ | ✅ |
 | ▫️ Автоматический таймер | ❌ | ❌ | ❌ | ✅ |
