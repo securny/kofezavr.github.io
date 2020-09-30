@@ -7,14 +7,16 @@
 
    Актуальное видео:
 
-   [![Доработка от Synesso / Регулировка потока / Жиклеринг / Задержка пролива Simonelli Oscar 2 и Musica](https://img.youtube.com/vi/qLpv_CvAPPQ/0.jpg)](https://www.youtube.com/watch?v=qLpv_CvAPPQ)
+   [![Обзор кофемолки Fiorenzato F64E / F64Evo. Подробно рассказал про все самые неочевидные ньюансы.](https://img.youtube.com/vi/SLpI-KHRWSE/0.jpg)](https://www.youtube.com/watch?v=qLpv_CvAPPQ)
 
 
-# Канал и чат в Телеграме
+# Где ещё меня найти
 
-* [📺 Кофезавр – Домашний бариста](http://t.me/coffeesaurus)
-* [💬 Кофезавр – Чат](http://t.me/kofezavr)
-
+* [Канал в Телеграме: 📺 Кофезавр – Домашний бариста](http://t.me/coffeesaurus)
+* [Чат в Телеграме: 💬 Кофезавр – Чат](http://t.me/kofezavr)
+* [Instagram](https://instagram.com/kofezavr)
+* [Facebook](https://facebook.com/kofezavr)
+* [Twitter](https://twitter.com/kofezavr)
 
 ----
 ### Экстрагируйте и наслаждайтесь!
