@@ -3,11 +3,11 @@
 
 # Канал в Youtube
 
-* [Yotube-канал "Кофезавр – Домашний бариста"](https://www.youtube.com/c/Coffeesaurus) https://www.youtube.com/watch?v=TZoatyGrc5M
+* [Yotube-канал "Кофезавр – Домашний бариста"](https://www.youtube.com/c/Coffeesaurus)
 
    Актуальное видео:
 
-   [![Про кофемашину Decent Espresso (и немного про кофемолку Niche Zero)](https://img.youtube.com/vi/TZoatyGrc5M/0.jpg)](https://www.youtube.com/watch?v=TZoatyGrc5M)
+   [![РУЧНАЯ кофемолка с ПЛОСКИМИ жерновами SSP Red Speed 64мм от производителя "Бонафабрика"](https://img.youtube.com/vi/eUYEtmPmtwU/0.jpg)](https://www.youtube.com/watch?v=eUYEtmPmtwU)
 
 
 # Где ещё меня найти
