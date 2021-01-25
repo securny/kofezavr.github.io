@@ -17,6 +17,8 @@
 * [Instagram](https://instagram.com/kofezavr)
 * [Facebook](https://facebook.com/kofezavr)
 * [Twitter](https://twitter.com/kofezavr)
+* [Reddit](https://www.reddit.com/r/CoffeesauRUS)
+* [TikTok](https://www.tiktok.com/@coffeesaurus)
 
 ----
 ### Экстрагируйте и наслаждайтесь!
