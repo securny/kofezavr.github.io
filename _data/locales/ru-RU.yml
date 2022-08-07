@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Домашняя страница
-  categories: Категории
-  tags: Теги
+  home: Главная
+  categories: Рубрики
+  tags: Тэги
   archives: Архив
-  about: О сайте
+  about: Обо мне
 
 # the text displayed in the search bar & search results
 search:
@@ -31,13 +31,13 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: Публикация защищена лицензией :LICENSE_NAME.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    name: CC BY-NC-ND 4.0
+    link: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru
 
   # Displayed in the footer
-  brief: Некоторые права защищены.
+  brief: © Все права защищены.
   verbose: >-
-    Публикации на сайте защищены лицензией Creative Commons Attribution 4.0 International (CC BY 4.0),
+    Публикации на сайте защищены лицензией Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0),
     если в тексте публикации не указано иное.
 
 meta: Powered by :PLATFORM with :THEME theme.
@@ -63,8 +63,8 @@ post:
   relate_posts: Вам также может быть интересно
   share: Поделиться
   button:
-    next: Предыдущая публикация
-    previous: Следующая публикация
+    next: Следующая публикация
+    previous: Предыдущая публикация
     copy_code:
       succeed: Скопировано успешно!
     share_link:
@@ -72,8 +72,9 @@ post:
       succeed: Ссылка успешно скопирована!
   # pinned prompt of posts list on homepage
   pin_prompt: Закреплено
+  excerpt_separator: Читать дальше...
 
 # categories page
 categories:
-  category_measure: категории
+  category_measure: разделы
   post_measure: публикации
