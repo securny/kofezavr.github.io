@@ -8,6 +8,6 @@ tags: [кофемолка,kingrinder,видео]
 
 Свежее видео на канале! Эта тема вызывала бурные обсуждения в чате, поэтому я решил всем помочь и сделал видосик с простым и понятным руководством.
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Cp4wFFdno9o?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><div class="youtube-wrapper"><iframe src="https://www.youtube.com/embed/Cp4wFFdno9o?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
 <a href="https://www.youtube.com/c/Coffeesaurus?sub_confirmation=1"><span><i class="fab fa-youtube"></i> Подписаться</span></a>
