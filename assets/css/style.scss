@@ -25,3 +25,19 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
   height: 100%;
   border: 0;
 }
+
+a.play:link, a.play:visited {
+  background-color: #f44336;
+  color: white !important;
+  padding: 1px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 15px;
+  transition: all 150ms ease-out; 
+}
+a.play:hover, a.play:active {
+  background-color: red;
+  color: white !important;
+  text-decoration: none;
+}
