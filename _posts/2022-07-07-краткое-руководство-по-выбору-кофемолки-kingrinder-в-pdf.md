@@ -7,3 +7,5 @@ tags: [руководство,kingrinder,кофемолка]
 --- 
 
 Скачать краткое руководство по выбору модели кофемолки Kingrinder в виде pdf можно [тут](https://t.me/coffeesaurus/431).
+
+![Краткое руководство по выбору модели кофемолки Kingrinder](/assets/img/posts/22/07/kingrinder-buying-guide.svg)
