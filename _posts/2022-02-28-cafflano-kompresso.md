@@ -2,7 +2,7 @@
 title: 📺 Ручная кофеварка Cafflano Kompresso. О чём ещё никто не рассказал?
 author: kofezavr
 date: 2022-02-28
-categories: [Кофемашины,Ручные кофеварка Cafflano Kompresso]
+categories: [Кофемашины,Ручная кофеварка Cafflano Kompresso]
 tags: [кофемашина,cafflano,cafflano kompresso]
 ---
 
