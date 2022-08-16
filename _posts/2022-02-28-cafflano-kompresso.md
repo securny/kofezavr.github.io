@@ -2,14 +2,15 @@
 title: 📺 Ручная кофеварка Cafflano Kompresso. О чём ещё никто не рассказал?
 author: kofezavr
 date: 2022-02-28
-categories: [Кофемашины,Ручные кофемашины]
+categories: [Кофемашины,Ручные кофеварка Cafflano Kompresso]
 tags: [кофемашина,cafflano,cafflano kompresso]
 ---
 
 Ручная кофеварка Cafflano Kompresso. О чём ещё никто не рассказал?
 
 Ссылка на 3д-модель:
-https://www.thingiverse.com/thing:5220346
+
+[https://www.thingiverse.com/thing:5220346](https://www.thingiverse.com/thing:5220346)
 
 <p><div class="youtube-wrapper"><iframe src="https://www.youtube.com/embed/iQ3fDjAe3X0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
