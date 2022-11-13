@@ -1,9 +1,9 @@
 ---
-title: 📰 La Marzocco Linea Micra
+title: 📰 Кофемашина La Marzocco Linea Micra
 author: kofezavr
 date: 2022-11-10
 categories: [Кофейные новости]
-tags: [новости, la marzocco, la marzocco linea, la marzocco linea micra]
+tags: [новости, la marzocco, la marzocco linea, la marzocco linea micra, кофемашина]
 --- 
 ![](/assets/img/posts/22/11/la-marzocco-linea-micra.jpg){: width="50%" height="50%" }
 
