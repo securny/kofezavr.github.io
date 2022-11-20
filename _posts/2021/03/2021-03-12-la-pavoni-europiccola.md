@@ -14,6 +14,6 @@ tags: [видео,кофемашина,la pavoni,la pavoni europiccola]
 Статья про La Pavoni Europiccola: 
 - https://homebarista.ru/blogs/coffeemakers/5501-review-lever-on-the-coffee-maker-la-pavoni-europiccola/
 
-<p><div class="youtube-wrapper"><iframe src="https://www.youtube.com/embed/F7n8uxwrN5Q?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+<p><div class="youtube-wrapper"><iframe src="https://www.youtube.com/embed/F7n8uxwrN5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
 <a class="play" href="https://www.youtube.com/c/Coffeesaurus?sub_confirmation=1"><i class="fab fa-youtube"></i> Подписаться</a>
