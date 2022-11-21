@@ -1,7 +1,7 @@
 ---
 title: 📺 Обзор кофемолки Fiorenzato F64E / F64Evo
 author: kofezavr
-date: 2022-11-20
+date: 2020-09-25
 categories: [Кофемолка,Fiorenzato F64E / F64Evo]
 tags: [видео,кофемолка,fiorenzato,fiorenzato f64e, fiorenzato f64evo]
 ---
