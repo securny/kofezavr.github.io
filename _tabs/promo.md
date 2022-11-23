@@ -1,7 +1,8 @@
 ---
 title: Промокоды
-icon: fa fa-money
+icon: fa fa-shopping-cart
 order: 4
+enable_toc = true
 ---
 
 ## Hibeans Coffee / Hibs Practicum – Онлайн-образование для кофейных специалистов сферы HoReCa
@@ -12,7 +13,7 @@ order: 4
 Описание:
 - Скидка 5% на любой тариф любого онлайн курса для новых участников
 
-Промокод:
+Промокод: 
 ```
 HIBS_KOFEZAVR
 ```
