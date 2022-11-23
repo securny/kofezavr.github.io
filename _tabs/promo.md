@@ -2,7 +2,7 @@
 title: Промокоды
 icon: fa fa-shopping-cart
 order: 4
-enable_toc = true
+enable_toc: true
 ---
 
 ## Hibeans Coffee / Hibs Practicum – Онлайн-образование для кофейных специалистов сферы HoReCa
