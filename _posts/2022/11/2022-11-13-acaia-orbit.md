@@ -5,7 +5,7 @@ date: 2022-11-13
 categories: [Кофейные новости]
 tags: [новости,кофемолка,acaia,acaia orbit]
 --- 
-![](/assets/img/posts/22/11/acaia-orbit.jpg){: width="50%" height="50%" }
+![](/assets/img/posts/22/11/acaia-orbit.jpg){: width="50%" height="50%"}
 
 Я досмотрел скучнейшую демонстрацию и готов вам рассказать все подробности про эту кофемолку.
 
