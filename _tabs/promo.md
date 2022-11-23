@@ -2,7 +2,6 @@
 title: Промокоды
 icon: fa fa-shopping-cart
 order: 4
-enable_toc: true
 ---
 
 ## Hibeans Coffee / Hibs Practicum
@@ -19,4 +18,3 @@ enable_toc: true
 	- [http://shop.tastycoffee.ru/](http://shop.tastycoffee.ru/)
 - Описание: cкидка 10%
 - Промокод: `KOFEZAVR`
-- 
