@@ -15,7 +15,7 @@ order: 4
 ## Submarine
 Кофе для кофейни или ресторана в зернах от Submarine, обжарка натурального зернового кофе в Москве.
 - Сайт:
-	- [http://shop.tastycoffee.ru/](https://sbmrne.ru/)
+	- [https://sbmrne.ru/](https://sbmrne.ru/)
 - Описание: cкидка 10%
 - Промокод: `KOFEZAVR`
 
@@ -31,4 +31,11 @@ order: 4
 - Сайт:
 	- [http://shop.tastycoffee.ru/](http://shop.tastycoffee.ru/)
 - Описание: cкидка 10%
+- Промокод: `KOFEZAVR`
+
+## Torrefacto
+Свежеобжаренный и зеленый кофе по доступным ценам с доставкой в Торрефакто.
+- Сайт:
+	- [https://www.torrefacto.ru](https://www.torrefacto.ru)
+- Описание: cкидка 15% на первый заказ (не суммируется с накопительной скидкой)
 - Промокод: `KOFEZAVR`
