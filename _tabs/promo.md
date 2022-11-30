@@ -4,6 +4,12 @@ icon: fa fa-shopping-cart
 order: 4
 ---
 
+## Coffee Tea Cacao Expo Rus
+Бизнес-выставка и конференция в области кофе, чая, какао и шоколада.
+- Сайт: [https://coffeeteacacaoexpo.ru/ru/visitors/visitorregistration](https://coffeeteacacaoexpo.ru/ru/visitors/visitorregistration)
+- Описание: бесплатное посещения выставки, действителен до 31 марта 2023 года
+- Промокод: `KOFEZAVR`
+
 ## Hibeans Coffee / Hibs Practicum
 Онлайн-образование для кофейных специалистов сферы HoReCa.
 - Сайты:
@@ -14,28 +20,24 @@ order: 4
 
 ## Submarine
 Кофе для кофейни или ресторана в зернах от Submarine, обжарка натурального зернового кофе в Москве.
-- Сайт:
-	- [https://sbmrne.ru/](https://sbmrne.ru/)
+- Сайт: [https://sbmrne.ru/](https://sbmrne.ru/)
 - Описание: cкидка 10%
 - Промокод: `KOFEZAVR`
 
 ## Tabera
 Свежеобжаренный кофе Tabera с доставкой.
-- Сайт:
-	- [https://www.taberacoffee.ru/](https://www.taberacoffee.ru/)
+- Сайт: [https://www.taberacoffee.ru/](https://www.taberacoffee.ru/)
 - Описание: cкидка 10% на свежеобжаренный кофе (кроме следующих позиций: Бразильеро, Китай Симао, Бильбао, Спецпредложение и товары со скидкой недели), а также на чай, капсулы и сладости.
 - Промокод: `KOFEZAVR`
 
 ## Tasty Coffee
 Интернет-магазин кофе и чая.
-- Сайт:
-	- [http://shop.tastycoffee.ru/](http://shop.tastycoffee.ru/)
+- Сайт: [http://shop.tastycoffee.ru/](http://shop.tastycoffee.ru/)
 - Описание: cкидка 10%
 - Промокод: `KOFEZAVR`
 
 ## Torrefacto
 Свежеобжаренный и зеленый кофе по доступным ценам с доставкой в Торрефакто.
-- Сайт:
-	- [https://www.torrefacto.ru](https://www.torrefacto.ru)
+- Сайт: [https://www.torrefacto.ru](https://www.torrefacto.ru)
 - Описание: cкидка 15% на первый заказ (не суммируется с накопительной скидкой)
 - Промокод: `KOFEZAVR`
