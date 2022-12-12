@@ -4,6 +4,12 @@ icon: fa fa-shopping-cart
 order: 4
 ---
 
+## Bravos
+Магазин кофе и чая BRAVOS COFFEESHOP.
+- Сайт: [https://coffee-tea-bravos.ru](https://coffee-tea-bravos.ru)
+- Описание: cкидка 15%
+- Промокод: `KOFEZAVR`
+
 ## Coffee Tea Cacao Expo Rus
 Бизнес-выставка и конференция в области кофе, чая, какао и шоколада.
 - Сайт: [https://coffeeteacacaoexpo.ru/ru/visitors/visitorregistration](https://coffeeteacacaoexpo.ru/ru/visitors/visitorregistration)
