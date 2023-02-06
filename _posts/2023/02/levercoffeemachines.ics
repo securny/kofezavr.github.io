@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Tbilisi
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Tbilisi
+X-LIC-LOCATION:Asia/Tbilisi
+BEGIN:STANDARD
+TZNAME:+04
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0400
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230206T174558Z
+UID:1675705446250-46546@ical.marudot.com
+DTSTART;TZID=Asia/Tbilisi:20230212T160000
+DTEND;TZID=Asia/Tbilisi:20230212T170000
+SUMMARY:Лекция "Леверные кофемашины"
+URL:http://kofezavr.ru
+DESCRIPTION:Лекция "Леверные кофемашины"\n\nПоговорим о том\, как леверные кофемашины устроены и варят кофе\, про леверный профиль в эспрессо\, также почему эти кофемашины до сих пор популярны.\n\nВоскресенье\, 12 февраля\, 16:00\nERTI KAVA Bazari Orbeliani\, 3A Vekua Street\, Tbilisi 0105
+LOCATION:ERTI KAVA Bazari Orbeliani\, 3A Vekua Street\, Tbilisi 0105
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Лекция "Леверные кофемашины"
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
