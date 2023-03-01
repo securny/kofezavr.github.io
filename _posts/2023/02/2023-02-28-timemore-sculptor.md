@@ -11,4 +11,4 @@ tags: [новости,timemore,sculptor,кофемолка]
 
 За 15 минут до начала кампании покупка кофемолки станет доступна для участников [специальной группы](https://www.facebook.com/groups/www.timemore.sculptor) в фе**буке.
 
-Ссылка на кикстартер: https://www.kickstarter.com/projects/timemore/timemore-electric-coffee-grinder
+Ссылка на кикстартер: [https://www.kickstarter.com/projects/timemore/timemore-electric-coffee-grinder](https://www.kickstarter.com/projects/timemore/timemore-electric-coffee-grinder)
