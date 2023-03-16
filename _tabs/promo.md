@@ -10,12 +10,6 @@ order: 4
 - Описание: cкидка 15%
 - Промокод: `KOFEZAVR`
 
-## Coffee Tea Cacao Expo Rus
-Бизнес-выставка и конференция в области кофе, чая, какао и шоколада.
-- Сайт: [https://coffeeteacacaoexpo.ru/ru/visitors/visitorregistration](https://coffeeteacacaoexpo.ru/ru/visitors/visitorregistration)
-- Описание: бесплатное посещения выставки, действителен до 31 марта 2023 года
-- Промокод: `KOFEZAVR`
-
 ## Hibeans Coffee / Hibs Practicum
 Онлайн-образование для кофейных специалистов сферы HoReCa.
 - Сайты:
