@@ -106,7 +106,7 @@ tail_includes:
 
   <!-- categories -->
   {% if page.categories.size > 0 %}
-  <div class="post-meta mb-3">
+  <div class="post-tags">
     <i class="far fa-folder-open fa-fw mr-1"></i>
     {% for category in page.categories %}
       <a href='{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/'>{{ category }}</a>
@@ -127,6 +127,10 @@ tail_includes:
       {% endfor %}
   </div>
   {% endif %}
+
+  {% if post.telegram-discussion %} <!-- комментарии Telegram внутри поста -->
+    {% include comments/telegram.html %}
+  {% endif %}  
 
   <div class="post-tail-bottom
     d-flex justify-content-between align-items-center mt-3 pt-5 pb-2">
