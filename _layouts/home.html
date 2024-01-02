@@ -85,7 +85,7 @@ layout: page
       </p>
 
       {% if post.telegram-discussion %} <!-- комментарии Telegram на главной странице -->
-        {% include comments/telegram.html %}
+        {% include comments/telegram.html telegram-discussion=post.telegram-discussion %}
       {% endif %}      
     </div>
 
