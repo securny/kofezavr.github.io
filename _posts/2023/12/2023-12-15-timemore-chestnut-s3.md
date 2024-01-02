@@ -4,6 +4,7 @@ author: kofezavr
 date: 2023-12-15
 categories: [Кофейные новости]
 tags: [новости,кофемолка,timemore,timemore chestnut s3]
+telegram-discussion: coffeesaurus/891
 --- 
 ![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-01.jpg)
 
@@ -30,5 +31,3 @@ tags: [новости,кофемолка,timemore,timemore chestnut s3]
 ![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-05.jpg)
 
 ![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-06.jpg)
-
-<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-discussion="coffeesaurus/891" data-comments-limit="3" data-colorful="1"></script>
