@@ -41,7 +41,7 @@ body {
 h1 {
   @extend %heading;
 
-  font-size: 1.9rem;
+  font-size: 2.5rem;
 }
 
 h2 {
@@ -49,7 +49,7 @@ h2 {
   @extend %section;
   @extend %anchor;
 
-  font-size: 1.5rem;
+  font-size: 2.0rem;
 }
 
 h3 {
@@ -57,7 +57,7 @@ h3 {
   @extend %section;
   @extend %anchor;
 
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 h4 {
@@ -65,7 +65,7 @@ h4 {
   @extend %section;
   @extend %anchor;
 
-  font-size: 1.15rem;
+  font-size: 1.25rem;
 }
 
 h5 {
@@ -73,7 +73,7 @@ h5 {
   @extend %section;
   @extend %anchor;
 
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 
 ol,
@@ -432,6 +432,7 @@ img[data-src] {
 .post-meta {
   font-size: 0.85rem;
   word-spacing: 1px;
+  text-align: center;
 
   a {
     &:not(:last-child) {
