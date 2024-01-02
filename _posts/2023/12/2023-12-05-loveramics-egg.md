@@ -5,7 +5,7 @@ date: 2023-12-05
 categories: [Идеи для подарков]
 tags: [подарки,посуда,loveramics,loveramics egg]
 --- 
-![Кофейные подарки: Loveramics Egg 200ml](/assets/img/posts/23/12/loveramics.jpg){: width="50%" height="50%"}
+![Кофейные подарки: Loveramics Egg 200ml](/assets/img/posts/23/12/loveramics.jpg)
 
 Настроение пообсуждать кофейные подарки. В течение декабря буду делать посты, в которых расскажу про не самые очевидные, но определенно удачные подарки кофеману.
 
@@ -16,3 +16,5 @@ tags: [подарки,посуда,loveramics,loveramics egg]
 Если по каким-то причинам вас не устроит Ловерамикс, то посмотрите на похожие кофейные пары от ACME. Они будут чуть подороже, чуть других оттенков и с более удобной ручкой.
 
 Надо также отметить, что чашки – это кофеманский фетиш. Поэтому даже если у кофемана уже есть одна такая пара, то он все равно будет рад ещё одной.
+
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-discussion="coffeesaurus/879" data-comments-limit="3" data-colorful="1"></script>
