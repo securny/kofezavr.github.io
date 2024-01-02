@@ -83,6 +83,10 @@ layout: page
         {% include no-linenos.html content=post.excerpt %}
         {{ content | markdownify }}
       </p>
+
+      {% if post.telegram-discussion %} <!-- комментарии Telegram на главной странице -->
+        {% include comments/telegram.html %}
+      {% endif %}      
     </div>
 
     <div class="mr-auto">
