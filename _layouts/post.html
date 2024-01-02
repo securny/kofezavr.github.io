@@ -129,7 +129,7 @@ tail_includes:
   {% endif %}
 
   {% if page.telegram-discussion %} <!-- комментарии Telegram внутри поста -->
-    {% include comments/telegram.html %}
+    {% include comments/telegram.html telegram-discussion=page.telegram-discussion %}
   {% endif %}  
 
   <div class="post-tail-bottom
