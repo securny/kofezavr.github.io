@@ -1,0 +1,14 @@
+---
+title: 🗒 Трещина в Timemore Black Mirror
+author: kofezavr
+date: 2023-11-01
+img_path: /assets/img/posts/
+categories: [Блог]
+tags: [блог,timemore,timemore black mirror,весы,поломка]
+telegram-discussion: coffeesaurus/867
+--- 
+![Трещина в Timemore Black Mirror](23/11/timemore-black-mirror.jpg)
+
+Неожиданно на весах [Timemore Black Mirror](https://t.me/coffeesaurus/728) появилась большая трещина по центру 🤔
+
+Что делать в таком случае? Зашпаклевать и покрасить?
