@@ -1,8 +1,8 @@
 ---
 title: 📺 Ручная кофемолка Comandante C40 mk4
 author: kofezavr
-date: 2024-01-03
-categories: [Кофемолки,Comandante]
+date: 2023-10-17
+categories: [Кофемолки,Comandante C40]
 tags: [видео,comandante,кофемолка,comandante c40,comandante c40 mk4]
 telegram-discussion: coffeesaurus/851
 ---
