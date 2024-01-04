@@ -4,8 +4,9 @@ author: kofezavr
 date: 2023-04-19
 categories: [Кофейные новости]
 tags: [новости,etkin,etkin 2 cup dripper]
+telegram-discussion: coffeesaurus/671
 --- 
-![Etkin 2-Cup Dripper](/assets/img/posts/23/04/etkin-2-cup-dripper.jpg){: width="50%" height="50%"}
+![Etkin 2-Cup Dripper](/assets/img/posts/23/04/etkin-2-cup-dripper.jpg)
 
 На кикстартере идёт фандрайзинг очередной воронки – [Etkin 2-Cup Dripper](https://www.kickstarter.com/projects/etkin/etkin-2-cup-dripper-faster-flow-sweeter-coffee). У её стенок нет ребёр, но при этом ребра есть около выходного отверстия, куда вытекает кофе. Производители пишут, что такая конструкция позволяет избежать затыкания пролива на светлой обжарке и увеличения времени экстракции. Сама воронка делается в Турции из турецкого фарфора, имеет двойные стенки, что улучшает температурную стабильность, а также совместима с фильтрами Wave размеров 185 и 155. Стоимость на кикстартере составляет 42$, отправка планируется в июне этого года.
 
