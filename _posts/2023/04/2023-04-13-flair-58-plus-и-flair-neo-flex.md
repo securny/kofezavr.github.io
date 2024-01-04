@@ -4,8 +4,9 @@ author: kofezavr
 date: 2023-04-13
 categories: [Кофейные новости]
 tags: [новости,flair,flair 58 plus,flair neo flex]
+telegram-discussion: coffeesaurus/660
 --- 
-![Flair 58 Plus и Flair NEO Flex](/assets/img/posts/23/04/flair.jpg){: width="50%" height="50%"}
+![Flair 58 Plus и Flair NEO Flex](/assets/img/posts/23/04/flair.jpg)
 
 Флэир выпустили сразу две новинки.
 
