@@ -6,7 +6,7 @@ categories: [Блог]
 tags: [блог,кофемолка,ручная кофемолка,timemore,timemore chestnut]
 telegram-discussion: coffeesaurus/722
 --- 
-![Апгрейд Timemore Chestnut](/assets/img/posts/24/01/chestnut-1.jpg)
+![Апгрейд Timemore Chestnut](/assets/img/posts/23/06/chestnut-1.jpg)
 
 Продолжу хвастаться покупками. Мне приехал [регулировочный диск](https://aliexpress.ru/item/1005005466099443.html) для ручной кофемолки Timemore (вместе с кусочком китайской газеты).
 
@@ -16,4 +16,4 @@ telegram-discussion: coffeesaurus/722
 
 Диск влез в кофемолку без проблем. Клики очень четкие и соответствуют нарисованной шкале. Я доволен.
 
-![Апгрейд Timemore Chestnut](/assets/img/posts/24/01/chestnut-2.jpg)
+![Апгрейд Timemore Chestnut](/assets/img/posts/23/06/chestnut-2.jpg)
