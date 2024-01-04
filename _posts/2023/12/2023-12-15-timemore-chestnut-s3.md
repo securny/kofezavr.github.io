@@ -3,7 +3,7 @@ title: 📰 Ручная кофемолка Timemore Chestnut S3
 author: kofezavr
 date: 2023-12-15
 categories: [Кофейные новости]
-tags: [новости,кофемолка,timemore,timemore chestnut s3]
+tags: [новости,кофемолка,ручная кофемолка,timemore,timemore chestnut s3]
 telegram-discussion: coffeesaurus/891
 --- 
 ![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-01.jpg)
