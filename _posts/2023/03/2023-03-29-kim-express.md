@@ -4,6 +4,7 @@ author: kofezavr
 date: 2023-03-29
 categories: [Кофемашины,Леверная кофемашина KIM Express]
 tags: [видео,кофемашина,леверная кофемашина,kim express]
+telegram-discussion: coffeesaurus/631
 ---
 Свежее видео на канале! Теперь вам есть что смотреть сегодня вечером :)
 
