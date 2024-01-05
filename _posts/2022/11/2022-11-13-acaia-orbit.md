@@ -4,8 +4,9 @@ author: kofezavr
 date: 2022-11-13
 categories: [Кофейные новости]
 tags: [новости,кофемолка,acaia,acaia orbit]
+telegram-discussion: coffeesaurus/522
 --- 
-![](/assets/img/posts/22/11/acaia-orbit.jpg){: width="50%" height="50%"}
+![Кофемолка Acaia Orbit](/assets/img/posts/22/11/acaia-orbit.jpg)
 
 Я досмотрел скучнейшую демонстрацию и готов вам рассказать все подробности про эту кофемолку.
 

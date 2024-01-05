@@ -4,6 +4,7 @@ author: kofezavr
 date: 2022-11-26
 categories: [База знаний]
 tags: [база знаний,лэнс хедрик,техника v60,lance hedrick]
+telegram-discussion: coffeesaurus/536
 --- 
 ## Предсмачивание
 - сделать углубление
