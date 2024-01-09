@@ -3,7 +3,7 @@ title: 🎁 Кофейные подарки – Loveramics Egg 200ml
 author: kofezavr
 date: 2023-12-05
 categories: [Кофейные подарки]
-tags: [подарки,посуда,loveramics,loveramics egg]
+tags: [подарки,чашки,loveramics,loveramics egg]
 telegram-discussion: coffeesaurus/879
 --- 
 ![Кофейные подарки: Loveramics Egg 200ml](/assets/img/posts/23/12/loveramics.jpg)
