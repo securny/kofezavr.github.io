@@ -6,7 +6,7 @@ categories: [Кофейные новости]
 tags: [новости,жернова]
 telegram-discussion: coffeesaurus/917
 --- 
-![SSP Lab Sweet 64mm V3](/assets/img/posts/24/01/ls-v3.jpg.jpg)
+![SSP Lab Sweet 64mm V3](/assets/img/posts/24/01/ls-v3.jpg)
 
 Через неделю появится в продаже 3-я версия (V3) жерновов SSP Lab Sweet 64mm.
 
