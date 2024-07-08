@@ -25,6 +25,13 @@ telegram-discussion: coffeesaurus/1104
 
 
 
+**📺 Видео про весы и работу приложения:**
+<p><div class="youtube-wrapper"><iframe src="https://www.youtube.com/embed/BNw_KSJuXiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+
+<a class="play" href="https://www.youtube.com/c/Coffeesaurus?sub_confirmation=1"><i class="fab fa-youtube"></i> Подписаться</a>
+
+
+
 **⏳ Статус:**
 - сейчас разработана первая версия приложения для Iphone
 - для публикации этого приложения в App Store нужно приобрести аккаунт разработчика эпл
