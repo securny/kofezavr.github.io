@@ -20,8 +20,8 @@ telegram-discussion: coffeesaurus/1104
 
 
 ## 📱 Скрины приложения
-![Kofezavr Scale Espresso](/assets/img/posts/24/07/kofezavr-scale-espresso.jpg){: width="40%" height="40%"}   
-![Kofezavr Scale V60](/assets/img/posts/24/07/kofezavr-scale-v60.jpg){: width="40%" height="40%"}
+- ![Kofezavr Scale Espresso](/assets/img/posts/24/07/kofezavr-scale-espresso.jpg){: width="40%" height="40%"}   
+- ![Kofezavr Scale V60](/assets/img/posts/24/07/kofezavr-scale-v60.jpg){: width="40%" height="40%"}
 
 
 
@@ -36,8 +36,7 @@ telegram-discussion: coffeesaurus/1104
 - сейчас разработана первая версия приложения для Iphone
 - для публикации этого приложения в App Store нужно приобрести аккаунт разработчика эпл
 - для покупки аккаунта разработка организован сбор донатов
-- на данный момент собрано **40,10%** (4 010 / 10 000 RUB)
-- срок сбора донатов **до 1 августа 2024**
+- на данный момент собрано **100%**
 
 
 
