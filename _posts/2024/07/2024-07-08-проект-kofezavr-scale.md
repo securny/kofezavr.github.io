@@ -46,4 +46,4 @@ telegram-discussion: coffeesaurus/1104
 
 
 ## ⭐️ Тестовая версия приложения
-- [Скачать](https://i.diawi.com/yF2HsB)
+- [Скачать](https://i.diawi.com/VQWyuA)
