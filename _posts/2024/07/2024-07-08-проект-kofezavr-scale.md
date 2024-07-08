@@ -7,31 +7,32 @@ tags: [весы, весы для кофе, futula, futula kitchen scale 3]
 telegram-discussion: coffeesaurus/1104
 ---
 
-# 🎯 Цель проекта:
+## 🎯 Цель проекта:
 - создание приложения/приложений для смартфона, которые подключаются к весам Futula Kitchen Scale 3 (LeFu CK811) по bluetooth и показывают профиль пролива/заваривания кофе
 
 
 
-# 📊 План:
+## 📊 План:
 - создание приложения под Iphone \[Выполнено 100% ✅\]
 - публикация приложения в App Store \[Выполнено 0% ❌ \]
 - разработка приложений под Android силами участников чата Кофезавр \[В процессе... 📈\]
 
 
 
-# 📱 Скрины приложения:
-![Kofezavr Scale Espresso](/assets/img/posts/24/07/kofezavr-scale-espresso.jpg){: width="50%" height="50%"} ![Kofezavr Scale V60](/assets/img/posts/24/07/kofezavr-scale-v60.jpg){: width="50%" height="50%"}
+## 📱 Скрины приложения:
+![Kofezavr Scale Espresso](/assets/img/posts/24/07/kofezavr-scale-espresso.jpg){: width="40%" height="40%"} 
+![Kofezavr Scale V60](/assets/img/posts/24/07/kofezavr-scale-v60.jpg){: width="40%" height="40%"}
 
 
 
-# 📺 Видео про весы и работу приложения:
+## 📺 Видео про весы и работу приложения:
 <p><div class="youtube-wrapper"><iframe src="https://www.youtube.com/embed/BNw_KSJuXiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
 <a class="play" href="https://www.youtube.com/c/Coffeesaurus?sub_confirmation=1"><i class="fab fa-youtube"></i> Подписаться</a>
 
 
 
-# ⏳ Статус:
+## ⏳ Статус:
 - сейчас разработана первая версия приложения для Iphone
 - для публикации этого приложения в App Store нужно приобрести аккаунт разработчика эпл
 - для покупки аккаунта разработка организован сбор донатов
@@ -40,10 +41,10 @@ telegram-discussion: coffeesaurus/1104
 
 
 
-# ➡️ Задонатить можно по этой ссылке:
+## ➡️ Задонатить можно по этой ссылке:
 - [https://www.donationalerts.com/r/kofezavr](https://www.donationalerts.com/r/kofezavr)
 
 
 
-# ⭐️ Тестовая версия приложения:
+## ⭐️ Тестовая версия приложения:
 - [Скачать](https://i.diawi.com/yF2HsB)
