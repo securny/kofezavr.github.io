@@ -21,7 +21,7 @@ telegram-discussion: coffeesaurus/1104
 
 **📱 Скрины приложения:**
 
-![Kofezavr Scale Espresso](/assets/img/posts/24/07/kofezavr-scale-espresso.jpg) ![Kofezavr Scale V60](/assets/img/posts/24/07/kofezavr-scale-v60.jpg)
+![Kofezavr Scale Espresso|200](/assets/img/posts/24/07/kofezavr-scale-espresso.jpg) ![Kofezavr Scale V60|200](/assets/img/posts/24/07/kofezavr-scale-v60.jpg)
 
 
 
