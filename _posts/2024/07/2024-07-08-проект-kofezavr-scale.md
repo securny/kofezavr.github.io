@@ -3,7 +3,7 @@ title: 💼 Проект Kofezavr Scale
 author: kofezavr
 date: 2024-07-08
 categories: [Проекты, Приложение Kofezavr Scale для весов Futula]
-tags: [весы, весы для кофе, futula, futula kitchen scale 3, ck811, ck811ble]
+tags: [весы, весы для кофе, futula, futula kitchen scale 3, ck811, ck811ble, kofezavr scale]
 telegram-discussion: coffeesaurus/1104
 ---
 
