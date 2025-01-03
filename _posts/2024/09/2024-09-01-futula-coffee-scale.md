@@ -14,4 +14,4 @@ telegram-discussion: coffeesaurus/1157
 
 Зато есть замечательные новости про приложения для Android! Несколько человек откликнулись на мою идею разработать аналогичное приложение. Но всех опередил и завладел иницитивой Вадим. Он довольно быстро выполнил разработку, а кроме этого дополнил своё приложение разными интересными функциями. Его приложение называется [FutulaCoffeeScale](https://github.com/wdrs/FutulaCoffeeScale). Получилось круто!
 
-Скачать FutulaCoffeeScale в виде apk-файла можно тут: (https://github.com/wdrs/FutulaCoffeeScale/releases)[https://github.com/wdrs/FutulaCoffeeScale/releases]
+Скачать FutulaCoffeeScale в виде apk-файла можно тут: [https://github.com/wdrs/FutulaCoffeeScale/releases](https://github.com/wdrs/FutulaCoffeeScale/releases)
