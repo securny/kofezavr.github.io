@@ -3,7 +3,7 @@ title: 📰 Ручная кофемолка Pietro с плоскими жерн�
 author: kofezavr
 date: 2022-11-15
 categories: [Кофейные новости]
-tags: [новости,pietro,pietro grinders,fiorenzato,кофемолка]
+tags: [новости,pietro,fiorenzato,кофемолка,ручная кофемолка]
 telegram-discussion: coffeesaurus/525
 --- 
 ![Ручная кофемолка Pietro с плоскими жерновами](/assets/img/posts/22/11/pietro-manual-coffe-grinder.jpg)
