@@ -3,7 +3,7 @@ title: 🗒 Timemore Sculptor 078 vs. Pietro
 author: kofezavr
 date: 2024-12-15
 categories: [Блог]
-tags: [блог,кофемолка,ручная кофемолка,электрическая кофемолка,timemore,timemore sculptor,pietro,fiorenzato pietro]
+tags: [блог,кофемолка,ручная кофемолка,timemore,timemore sculptor,pietro,fiorenzato pietro]
 telegram-discussion: coffeesaurus/1310
 --- 
 ![Timemore Sculptor 078 vs. Pietro](/assets/img/posts/24/12/sculptor-vs-pietro.jpg)
