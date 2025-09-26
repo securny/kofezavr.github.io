@@ -10,6 +10,12 @@ order: 4
 - Описание: cкидка 15%
 - Промокод: `KOFEZAVR`
 
+## BЁRNIN
+Зерновой кофе BЁRNIN или кофе в дрипах.
+- Сайт: [https://shop-bernin.ru](https://shop-bernin.ru)
+- Описание: cкидка 20%
+- Промокод: `KOFEZAVR`
+
 ## Hibeans Coffee / Hibs Practicum
 Онлайн-образование для кофейных специалистов сферы HoReCa.
 - Сайты:
@@ -17,6 +23,12 @@ order: 4
 	- [http://hibspracticum.getcourse.ru/](http://hibspracticum.getcourse.ru/)
 - Описание: cкидка 5% на любой тариф любого онлайн курса для новых участников
 - Промокод: `HIBS_KOFEZAVR`
+
+## Ingresso Coffee
+Интернет-магазин кофе для дома с доставкой по РФ. Жарим кофе каждый день и доставляем до двери в кратчайшие сроки.
+- Сайт: [https://ingresso.coffee/](https://ingresso.coffee/)
+- Описание: cкидка 15%
+- Промокод: `ZAVR15` 
 
 ## Roasted by Mia
 Свежеобжаренный кофе не выходя из телеграма.
@@ -27,8 +39,8 @@ order: 4
 ## Submarine
 Кофе для кофейни или ресторана в зернах от Submarine, обжарка натурального зернового кофе в Москве.
 - Сайт: [https://sbmrne.ru/](https://sbmrne.ru/)
-- Описание: cкидка 10%
-- Промокод: `KOFEZAVR`
+- Промокод: `KOFEZAVR` – на покупку кофе
+- Промокод: `KOFEZAVRSUB` – на подписку на кофе
 
 ## Tabera
 Свежеобжаренный кофе Tabera с доставкой.
