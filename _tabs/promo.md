@@ -30,6 +30,12 @@ order: 4
 - Описание: cкидка 15%
 - Промокод: `ZAVR15` 
 
+## Pottery Atelier
+`BREW Ceramics` – коллекция керамических изделий специально для наслаждения идеальным вкусом кофе.
+- Озон [https://www.ozon.ru/seller/brew-ceramics-3289658/products/?miniapp=seller_3289658](https://www.ozon.ru/seller/brew-ceramics-3289658/products/?miniapp=seller_3289658)
+- Сайт [https://pottery-atelier.ru/brewceramics](https://pottery-atelier.ru/brewceramics)
+- Промокод: `KOFEZAVR`
+
 ## Roasted by Mia
 Свежеобжаренный кофе не выходя из телеграма.
 - Бот: [https://t.me/CoffeemiaBot](https://t.me/CoffeemiaBot)
