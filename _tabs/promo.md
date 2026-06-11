@@ -13,7 +13,7 @@ order: 4
 ## BЁRNIN
 Зерновой кофе BЁRNIN или кофе в дрипах.
 - Сайт: [https://shop-bernin.ru](https://shop-bernin.ru)
-- Описание: cкидка 20%
+- Описание: cкидка 15%
 - Промокод: `KOFEZAVR`
 
 ## Hibeans Coffee / Hibs Practicum
