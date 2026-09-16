@@ -1,0 +1,18 @@
+---
+permalink: /llms.txt
+layout: none
+---
+# КОФЕЗАВР
+
+> {{ site.description | normalize_whitespace | strip }}
+
+## Разделы
+
+- [Обо мне]({{ '/about/' | absolute_url }})
+- [Промокоды]({{ '/promo/' | absolute_url }})
+- [Рубрики]({{ '/categories/' | absolute_url }})
+
+## Публикации
+
+{% for post in site.posts %}- [{{ post.title | strip }}]({{ post.url | absolute_url }}){% if post.categories.size > 0 %}: {{ post.categories | join: ", " }}{% endif %}
+{% endfor %}
