@@ -19,7 +19,7 @@ title: КОФЕЗАВР # the main title
 tagline: Домашний бариста # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  КОФЕЗАВР – Домашний бариста
+  Всё о домашнем кофеварении: обзоры кофемашин и кофемолок, дегустации кофе от российских обжарщиков, новости и база знаний
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -43,6 +43,9 @@ webmaster_verifications:
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
   facebook: # fill in your Facebook verification code
+
+# Publisher logo for JSON-LD (jekyll-seo-tag key)
+logo: /assets/img/ava.png
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -95,7 +98,7 @@ avatar: '/assets/img/ava.png'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/social-preview.png # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
