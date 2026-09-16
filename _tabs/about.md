@@ -28,8 +28,8 @@ order: 5
 ## Где меня найти
 В каналах я делюсь своими опытом и знаниями о кофе и помогаю другим становиться домашними баристами:
 * [Yotube-канал "Кофезавр – Домашний бариста"](https://www.youtube.com/c/Coffeesaurus)
-* [Канал в Телеграме: 📺 Кофезавр – Домашний бариста](http://t.me/coffeesaurus)
-* [Чат в Телеграме: 💬 Кофезавр – Чат](http://t.me/kofezavr)
+* [Канал в Телеграме: 📺 Кофезавр – Домашний бариста](https://t.me/coffeesaurus)
+* [Чат в Телеграме: 💬 Кофезавр – Чат](https://t.me/kofezavr)
 * [Twitter](https://twitter.com/kofezavr)
 * [Reddit](https://www.reddit.com/r/CoffeesauRUS)
 * [VK](https://vk.com/coffeesaurus)
