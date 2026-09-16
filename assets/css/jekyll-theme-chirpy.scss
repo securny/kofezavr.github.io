@@ -1,0 +1,101 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* --- kofezavr.ru: typography carried over from the 5.2.1 fork --- */
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1.15rem;
+}
+
+/* home page: post title (custom _layouts/home.html) */
+#post-list .post-title {
+  font-size: 2.5rem;
+  font-weight: 900;
+  text-align: center;
+}
+
+/* black text in the light scheme */
+@media (prefers-color-scheme: light) {
+  html:not([data-mode]),
+  html[data-mode='light'] {
+    --text-color: black;
+    --heading-color: black;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html[data-mode='light'] {
+    --text-color: black;
+    --heading-color: black;
+  }
+}
+
+/* --- kofezavr.ru: YouTube embeds and "play" buttons used in posts --- */
+
+.youtube-wrapper {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+.youtube-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+a.play:link,
+a.play:visited {
+  background-color: #f44336;
+  color: white !important;
+  padding: 1px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 15px;
+  transition: all 150ms ease-out;
+}
+
+a.play:hover,
+a.play:active {
+  background-color: red;
+  color: white !important;
+  text-decoration: none;
+}

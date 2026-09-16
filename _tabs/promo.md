@@ -1,5 +1,4 @@
 ---
-title: Промокоды
 icon: fa fa-shopping-cart
 order: 4
 ---
