@@ -18,8 +18,8 @@ order: 4
 ## Hibeans Coffee / Hibs Practicum
 Онлайн-образование для кофейных специалистов сферы HoReCa.
 - Сайты:
-	- [http://hibeanscoffee.ru/](http://hibeanscoffee.ru/)
-	- [http://hibspracticum.getcourse.ru/](http://hibspracticum.getcourse.ru/)
+	- [https://hibeanscoffee.ru/](https://hibeanscoffee.ru/)
+	- [https://hibspracticum.getcourse.ru/](https://hibspracticum.getcourse.ru/)
 - Описание: cкидка 5% на любой тариф любого онлайн курса для новых участников
 - Промокод: `HIBS_KOFEZAVR`
 
@@ -55,7 +55,7 @@ order: 4
 
 ## Tasty Coffee
 Интернет-магазин кофе и чая.
-- Сайт: [http://shop.tastycoffee.ru/](http://shop.tastycoffee.ru/)
+- Сайт: [https://shop.tastycoffee.ru/](https://shop.tastycoffee.ru/)
 - Описание: cкидка 10%
 - Промокод: `KOFEZAVR`
 
