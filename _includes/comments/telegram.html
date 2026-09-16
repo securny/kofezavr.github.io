@@ -1,5 +1,7 @@
-<!--
-  Telegram Comments
--->
-
-<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-discussion="{{ include.telegram-discussion }}" data-comments-limit="3" data-colorful="1"></script>
+<!-- Telegram Comments: widget attached to the channel discussion of the post -->
+{% assign tg = include.id | default: page.telegram-discussion %}
+{% if tg %}
+  <script async src="https://telegram.org/js/telegram-widget.js?22"
+    data-telegram-discussion="{{ tg }}"
+    data-comments-limit="3" data-colorful="1"></script>
+{% endif %}
