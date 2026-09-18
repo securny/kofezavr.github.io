@@ -99,13 +99,24 @@ layout: default
               {{ post.excerpt }}
             </div>
 
-            {% if post.excerpt != post.content %}
-              <div class="me-auto mb-3">
-                <a href="{{ post.url | relative_url }}">{{ site.data.locales[lang].post.excerpt_separator }}</a>
-              </div>
-            {% endif %}
+            {%- comment -%}
+              No Telegram widget in the feed: one button leads to the post (rest of the text + comments).
+            {%- endcomment -%}
+            {% assign truncated = false %}
+            {% if post.excerpt != post.content %}{% assign truncated = true %}{% endif %}
 
-            {% include comments/telegram.html id=post.telegram-discussion %}
+            {% if truncated or post.telegram-discussion %}
+              <a class="post-more mb-2" href="{{ post.url | relative_url }}{% unless truncated %}#comments{% endunless %}">
+                {%- if truncated and post.telegram-discussion -%}
+                  Продолжение поста и комментарии
+                {%- elsif truncated -%}
+                  {{ site.data.locales[lang].post.excerpt_separator }}
+                {%- else -%}
+                  Комментарии
+                {%- endif -%}
+                <i class="fas fa-arrow-right" aria-hidden="true"></i>
+              </a>
+            {% endif %}
           </div>
           <!-- .card-body -->
         </div>

@@ -85,6 +85,34 @@ kbd,
   white-space: normal;
 }
 
+/* home: "continue + comments" button under each post (replaces the Telegram widget in the feed) */
+#post-list .post-more {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid currentColor;
+  border-radius: 0.5rem;
+  color: var(--link-color);
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 150ms ease-out;
+}
+
+#post-list .post-more:hover,
+#post-list .post-more:focus-visible {
+  background-color: var(--sidebar-hover-bg);
+}
+
+#post-list .post-more .fa-arrow-right {
+  font-size: 0.85em;
+  transition: transform 150ms ease-out;
+}
+
+#post-list .post-more:hover .fa-arrow-right {
+  transform: translateX(2px);
+}
+
 /* black text in the light scheme */
 @media (prefers-color-scheme: light) {
   html:not([data-mode]),
