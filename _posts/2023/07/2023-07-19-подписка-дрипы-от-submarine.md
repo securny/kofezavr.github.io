@@ -5,6 +5,19 @@ date: 2023-07-19
 categories: [Кофейный блокнот,Submarine]
 tags: [кофе,submarine,дрипы]
 telegram-discussion: coffeesaurus/753
+images:
+  - path: /assets/img/posts/23/07/drip-sbmrne-1.webp
+    alt: Подписка (дрипы) от Submarine
+  - path: /assets/img/posts/23/07/drip-sbmrne-2.webp
+    alt: Подписка (дрипы) от Submarine
+  - path: /assets/img/posts/23/07/drip-sbmrne-3.webp
+    alt: Подписка (дрипы) от Submarine
+  - path: /assets/img/posts/23/07/drip-sbmrne-4.webp
+    alt: Подписка (дрипы) от Submarine
+  - path: /assets/img/posts/23/07/drip-sbmrne-5.webp
+    alt: Подписка (дрипы) от Submarine
+  - path: /assets/img/posts/23/07/drip-sbmrne-6.webp
+    alt: Подписка (дрипы) от Submarine
 --- 
 Какое-то время назад Submarine прислали мне набор дрипов. В коробке было 30 дрипов из 6 стран. Кроме этого, на коробке были загадочные координаты. Возможно, я единственный, кто все их прогуглил. Поэтому, дабы труд не пропадал зря, перечислю их тут:
 
@@ -12,36 +25,24 @@ telegram-discussion: coffeesaurus/753
 - Кофе: Колумбия Карлос Плаза
 - Оценка: 4/5, 🌕🌕🌕🌕🌑
 
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-1.webp)
-
 2. Массив Таму
 - Кофе: Конго Китарага
 - Оценка: 4.5/5, 🌕🌕🌕🌕🌗
-
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-2.webp)
 
 3. Остров Медуз
 - Кофе: Бразилия Флавио Рейс
 - Оценка: 3.75/5, 🌕🌕🌕🌖🌑 
 
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-3.webp)
-
 4. Бездна Челленджера
 - Кофе: Руанда Мутетели
 - Оценка: 4.5/5, 🌕🌕🌕🌕🌗
-
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-4.webp)
 
 5. Большая голубая дыра
 - Кофе: Эфиопия Хару
 - Оценка: 4/5, 🌕🌕🌕🌕🌑
 
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-5.webp)
-
 6. Озеро Тингвадлаватн
 - Кофе: Панама Найнти Плас Каттура
 - Оценка: 4.25/5 🌕🌕🌕🌕🌘
-
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-6.webp)
 
 Могу выделить, что больше всего удовольствия доставили дрипы Конго и Руанда. Эфиопия и Колумбия были привычно хороши. Бразилия мне показалась скучноватой, а Панама очень яркой, но не совсем моей.
