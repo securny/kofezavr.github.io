@@ -5,9 +5,9 @@ date: 2023-07-23
 categories: [Кофейный блокнот,Win-Win Coffee]
 tags: [кофе,win-win coffee]
 telegram-discussion: coffeesaurus/763
+images:
+  - /assets/img/posts/23/07/win-win-coffee-1.webp
 --- 
-![Win-Win Coffee](/assets/img/posts/23/07/win-win-coffee-1.jpg)
-
 Попробовал напитки Win-Win Coffee (https://win-win.coffee/) от Екатерины Лапиной [@mycoffeenation](https://t.me/mycoffeenation). Она рассказала мне, что задумкой было подчеркнуть дескрипторы, которые бывают и в кофе, и в вине. В составе напитков нет ароматизаторов и консервантов, но есть немного сахара, придающего тельность.
 
 ## Red Berries Coffee Mix
@@ -24,6 +24,6 @@ telegram-discussion: coffeesaurus/763
 
 А вы уже пробовали? Какие впечатления от новинки?
 
-![Win-Win Coffee](/assets/img/posts/23/07/win-win-coffee-2.jpg)
+![Win-Win Coffee](/assets/img/posts/23/07/win-win-coffee-2.webp)
 
-![Win-Win Coffee](/assets/img/posts/23/07/win-win-coffee-3.jpg)
+![Win-Win Coffee](/assets/img/posts/23/07/win-win-coffee-3.webp)

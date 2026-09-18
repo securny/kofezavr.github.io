@@ -5,9 +5,10 @@ date: 2023-12-05
 categories: [Кофейные подарки]
 tags: [подарки,чашки,loveramics,loveramics egg]
 telegram-discussion: coffeesaurus/879
+images:
+  - path: /assets/img/posts/23/12/loveramics.webp
+    alt: "Кофейные подарки: Loveramics Egg 200ml"
 --- 
-![Кофейные подарки: Loveramics Egg 200ml](/assets/img/posts/23/12/loveramics.jpg)
-
 Настроение пообсуждать кофейные подарки. В течение декабря буду делать посты, в которых расскажу про не самые очевидные, но определенно удачные подарки кофеману.
 
 Сегодня это кофейная пара (чашка и блюдце) Loveramics Egg 200ml. У меня есть такие, многие замечали их на фотках и видео. До сих пор иногда получаю вопросы как они называются и где их купить.

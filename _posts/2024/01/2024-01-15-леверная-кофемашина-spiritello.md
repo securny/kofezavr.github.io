@@ -5,9 +5,9 @@ date: 2024-01-15
 categories: [Кофейные новости]
 tags: [новости,kvdw,кофемашина,леверная кофемашина,kees van der westen,kees van der westen spiritello]
 telegram-discussion: coffeesaurus/919
+images:
+  - /assets/img/posts/24/01/spiritello-1.webp
 --- 
-![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-1.jpg)
-
 Анонс этой кофемашины был ещё в ноябре, но я решил написать про неё сейчас, потому что появились новые подробности.
 
 Вот, что уже известно:
@@ -30,12 +30,12 @@ telegram-discussion: coffeesaurus/919
 
 - Стартовое давление пружины настраивается в диапазоне от 8 до 10 бар.
 
-![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-2.jpg)
+![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-2.webp)
 
-![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-3.jpg)
+![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-3.webp)
 
-![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-4.jpg)
+![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-4.webp)
 
-![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-5.jpg)
+![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-5.webp)
 
-![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-6.jpg)
+![Леверная кофемашина Spiritello от Kees van der Westen (KVDW)](/assets/img/posts/24/01/spiritello-6.webp)

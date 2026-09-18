@@ -5,9 +5,9 @@ date: 2024-04-15
 categories: [Кофейные новости]
 tags: [новости,fellow,felloe aiden,кофеварка]
 telegram-discussion: coffeesaurus/1018
+images:
+  - /assets/img/posts/24/04/aiden.webp
 --- 
-![Fellow Aiden](/assets/img/posts/24/04/aiden.jpg)
-
 Феллоу сделали капельную кофеварку [Aiden](https://fellowproducts.com/products/aiden-precision-coffee-maker). Она будет стоить $365, а поставки начнутся в сентябре этого года. Я правда не уверен, будет ли доступна эта кофеварка за пределами США.
 
 Кратко про её особенности:

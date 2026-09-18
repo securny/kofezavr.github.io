@@ -5,9 +5,9 @@ date: 2024-01-31
 categories: [Кофейные новости]
 tags: [новости,кофемолка,ручная кофемолка,mhw-3bomber,mhw-3bomber blade r3]
 telegram-discussion: coffeesaurus/948
+images:
+  - /assets/img/posts/24/01/blade-r3-1.webp
 --- 
-![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-1.jpg)
-
 Неделю назад появилась кофемолка с внешней регулировкой от "[бомбера](https://t.me/coffeesaurus/947)".
 
 Среди её особенностей могу отметить только стакан.
@@ -24,16 +24,16 @@ telegram-discussion: coffeesaurus/948
 
 Что думаете, она будет лучше [Timemore S3](https://t.me/coffeesaurus/891) или нет?
 
-![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-2.jpg)
+![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-2.webp)
 
-![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-3.jpg)
+![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-3.webp)
 
-![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-4.jpg)
+![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-4.webp)
 
-![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-5.jpg)
+![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-5.webp)
 
-![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-6.jpg)
+![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-6.webp)
 
-![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-7.jpg)
+![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-7.webp)
 
-![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-8.jpg)
+![Ручная кофемолка MHW-3Bomber Blade R3](/assets/img/posts/24/01/blade-r3-8.webp)

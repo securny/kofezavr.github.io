@@ -20,8 +20,8 @@ telegram-discussion: coffeesaurus/1104
 
 
 ## 📱 Скрины приложения
-- ![Kofezavr Scale Espresso](/assets/img/posts/24/07/kofezavr-scale-espresso.jpg){: width="40%" height="40%"}   
-- ![Kofezavr Scale V60](/assets/img/posts/24/07/kofezavr-scale-v60.jpg){: width="40%" height="40%"}
+- ![Kofezavr Scale Espresso](/assets/img/posts/24/07/kofezavr-scale-espresso.webp){: width="40%" height="40%"}   
+- ![Kofezavr Scale V60](/assets/img/posts/24/07/kofezavr-scale-v60.webp){: width="40%" height="40%"}
 
 
 

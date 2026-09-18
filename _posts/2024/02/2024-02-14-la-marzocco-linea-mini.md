@@ -5,9 +5,9 @@ date: 2024-02-14
 categories: [Кофейные новости]
 tags: [новости,кофемашина,la marzocco,la marzocco linea,la marzocco linea mini]
 telegram-discussion: coffeesaurus/976
+images:
+  - /assets/img/posts/24/02/lmlm.webp
 --- 
-![La Marzocco Linea Mini](/assets/img/posts/24/02/lmlm.jpg)
-
 Вы видели? Они обновили [ЛМЛМ](https://t.me/coffeesaurus/751)!
 
 Вот, что появилось в новой версии:

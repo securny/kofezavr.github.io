@@ -99,3 +99,119 @@ a.play:active {
   color: white !important;
   text-decoration: none;
 }
+
+/* --- home: custom card is not a link, the theme's hover overlay swallowed clicks --- */
+#post-list .post-preview::before {
+  content: none;
+}
+
+/* --- home: theme wraps images in .preview-img (40:21, cover) - show them uncropped --- */
+#post-list .content .preview-img {
+  aspect-ratio: auto;
+  height: auto;
+  background: none;
+}
+
+#post-list .content .preview-img img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* --- image carousel: _includes/post-carousel.html --- */
+.post-carousel {
+  position: relative;
+  margin: 1.5rem 0;
+}
+
+.pc-track {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  border-radius: 6px;
+}
+
+.pc-track::-webkit-scrollbar {
+  display: none;
+}
+
+.pc-slide {
+  flex: 0 0 100%;
+  scroll-snap-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  aspect-ratio: 1 / 1;
+  max-height: 80vh;
+  background: var(--img-bg);
+}
+
+.pc-slide > a,
+.pc-slide > .preview-img {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  aspect-ratio: auto;
+  background: none;
+}
+
+.pc-slide img,
+#post-list .pc-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.post-carousel.single .pc-slide {
+  aspect-ratio: auto;
+  max-height: none;
+  background: none;
+}
+
+.post-carousel.single .pc-slide img,
+#post-list .post-carousel.single .pc-slide img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.pc-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 0;
+  border-radius: 50%;
+  background: rgb(0 0 0 / 45%);
+  color: #fff;
+  font-size: 1.25rem;
+}
+
+.pc-btn:disabled {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.pc-prev {
+  left: 0.5rem;
+}
+
+.pc-next {
+  right: 0.5rem;
+}
+
+.pc-count {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 1rem;
+  background: rgb(0 0 0 / 45%);
+  color: #fff;
+  font-size: 0.8rem;
+}

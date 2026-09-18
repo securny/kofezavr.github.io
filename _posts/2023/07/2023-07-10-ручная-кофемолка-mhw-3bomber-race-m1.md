@@ -10,20 +10,20 @@ telegram-discussion: coffeesaurus/741
 
 Что вам про неё интересно узнать? Накидайте вопросов 😊
 
-![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-1.jpg)
+![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-1.webp)
 
-![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-2.jpg)
+![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-2.webp)
 
-![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-3.jpg)
+![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-3.webp)
 
-![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-4.jpg)
+![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-4.webp)
 
-![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-5.jpg)
+![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-5.webp)
 
-![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-6.jpg)
+![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-6.webp)
 
-![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-7.jpg)
+![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-7.webp)
 
-![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-8.jpg)
+![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-8.webp)
 
-![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-9.jpg)
+![Ручная кофемолка MHW-3BOMBER Race M1](/assets/img/posts/23/07/race-m1-9.webp)

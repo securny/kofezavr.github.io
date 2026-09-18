@@ -1,0 +1,55 @@
+{%- comment -%}
+  Image carousel between post header and content (post page and home list).
+  Usage: {% include post-carousel.html images=page.images title=page.title %}
+  Front matter:
+    images:
+      - /assets/img/posts/25/07/1768-2.webp        # alt = title
+      - path: /assets/img/posts/22/11/kenia-kii.webp
+        alt: Кения Кии
+  Bare <img> tags are wrapped by Chirpy's refactor-content: into
+  <a class="popup img-link"> on posts (GLightbox zoom), into
+  <div class="preview-img"> on home. Styles: assets/css/jekyll-theme-chirpy.scss.
+  No // comments in the script: compress layout joins lines.
+{%- endcomment -%}
+{%- assign _images = include.images -%}
+{%- if _images and _images.size > 0 -%}
+  <div class="post-carousel{% if _images.size == 1 %} single{% endif %}">
+    <div class="pc-track" tabindex="0" aria-label="{{ include.title | xml_escape }}">
+      {%- for _img in _images -%}
+        {%- assign _src = _img.path | default: _img -%}
+        {%- assign _alt = _img.alt | default: include.title -%}
+        <div class="pc-slide"><img src="{{ _src | relative_url }}" alt="{{ _alt | xml_escape }}"></div>
+      {%- endfor -%}
+    </div>
+    {%- if _images.size > 1 -%}
+      <button type="button" class="pc-btn pc-prev" aria-label="Назад" disabled><i class="fas fa-angle-left"></i></button>
+      <button type="button" class="pc-btn pc-next" aria-label="Вперёд"><i class="fas fa-angle-right"></i></button>
+      <span class="pc-count"><span class="pc-cur">1</span> / {{ _images.size }}</span>
+    {%- endif -%}
+  </div>
+
+  {%- if _images.size > 1 -%}
+  <script>
+    document.querySelectorAll('.post-carousel:not([data-pc])').forEach(function (root) {
+      root.setAttribute('data-pc', '');
+      var track = root.querySelector('.pc-track');
+      var prev = root.querySelector('.pc-prev');
+      var next = root.querySelector('.pc-next');
+      var cur = root.querySelector('.pc-cur');
+      if (!prev) { return; }
+      var total = track.children.length;
+      function index() { return Math.round(track.scrollLeft / track.clientWidth); }
+      function go(i) { track.scrollTo({ left: i * track.clientWidth }); }
+      function update() {
+        var i = index();
+        cur.textContent = i + 1;
+        prev.disabled = i === 0;
+        next.disabled = i === total - 1;
+      }
+      prev.addEventListener('click', function () { go(index() - 1); });
+      next.addEventListener('click', function () { go(index() + 1); });
+      track.addEventListener('scroll', update, { passive: true });
+    });
+  </script>
+  {%- endif -%}
+{%- endif -%}

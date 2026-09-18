@@ -5,15 +5,12 @@ date: 2024-10-28
 categories: [Кофейные новости]
 tags: [новости,muvna,muvna mach m8]
 telegram-discussion: coffeesaurus/1252
+images:
+  - /assets/img/posts/24/10/muvna-1.webp
+  - /assets/img/posts/24/10/muvna-2.webp
+  - /assets/img/posts/24/10/muvna-3.webp
+  - /assets/img/posts/24/10/muvna-4.webp
 --- 
-![Ручная кофемашина MUVNA Mach M8](/assets/img/posts/24/10/muvna-1.jpg)
-
-![Ручная кофемашина MUVNA Mach M8](/assets/img/posts/24/10/muvna-2.jpg)
-
-![Ручная кофемашина MUVNA Mach M8](/assets/img/posts/24/10/muvna-3.jpg)
-
-![Ручная кофемашина MUVNA Mach M8](/assets/img/posts/24/10/muvna-4.jpg)
-
 Кофемашина `MUVNA Mach M8` недавно засветилась в интернете, уже продается в магазинах, а блогеры снимают на неё первые обзоры.
 
 В целом, это просто ручная эспрессо кофемашина необычной конструкции. В отличие от `Flair`, здесь давление создается не напрямую рычагом, а через червячную передачу. 

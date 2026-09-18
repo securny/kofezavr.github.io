@@ -93,6 +93,8 @@ layout: default
             </div>
             <!-- .post-meta -->
 
+            {% include post-carousel.html images=post.images title=post.title %}
+
             <div class="content mt-0 mb-3">
               {{ post.excerpt }}
             </div>

@@ -12,36 +12,36 @@ telegram-discussion: coffeesaurus/753
 - Кофе: Колумбия Карлос Плаза
 - Оценка: 4/5, 🌕🌕🌕🌕🌑
 
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-1.jpg)
+![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-1.webp)
 
 2. Массив Таму
 - Кофе: Конго Китарага
 - Оценка: 4.5/5, 🌕🌕🌕🌕🌗
 
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-2.jpg)
+![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-2.webp)
 
 3. Остров Медуз
 - Кофе: Бразилия Флавио Рейс
 - Оценка: 3.75/5, 🌕🌕🌕🌖🌑 
 
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-3.jpg)
+![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-3.webp)
 
 4. Бездна Челленджера
 - Кофе: Руанда Мутетели
 - Оценка: 4.5/5, 🌕🌕🌕🌕🌗
 
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-4.jpg)
+![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-4.webp)
 
 5. Большая голубая дыра
 - Кофе: Эфиопия Хару
 - Оценка: 4/5, 🌕🌕🌕🌕🌑
 
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-5.jpg)
+![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-5.webp)
 
 6. Озеро Тингвадлаватн
 - Кофе: Панама Найнти Плас Каттура
 - Оценка: 4.25/5 🌕🌕🌕🌕🌘
 
-![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-6.jpg)
+![Подписка (дрипы) от Submarine](/assets/img/posts/23/07/drip-sbmrne-6.webp)
 
 Могу выделить, что больше всего удовольствия доставили дрипы Конго и Руанда. Эфиопия и Колумбия были привычно хороши. Бразилия мне показалась скучноватой, а Панама очень яркой, но не совсем моей.

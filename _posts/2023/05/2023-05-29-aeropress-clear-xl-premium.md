@@ -5,9 +5,9 @@ date: 2023-05-29
 categories: [Кофейные новости]
 tags: [новости,aeropress,аэропресс,aeropress clear,aeropress xl,aeropress premium]
 telegram-discussion: coffeesaurus/706
+images:
+  - /assets/img/posts/23/05/new-aeropress.webp
 --- 
-![Aeropress Clear, XL и Premium](/assets/img/posts/23/05/new-aeropress.jpg)
-
 Не рассказал вам своевременно, но исправляюсь. Аэропресс анонсировал новые модели, а одна из них (Clear) уже поступила в продажу за 49,95$. Остальные (XL и Premium) появятся до конца года. 
 
 Как можно догадаться, Clear – прозрачный аэропресс, XL – увеличенная версия (чтобы его было неудобно брать с собой), а Premium – премиальная. Премиальная будет сделана из стекла, нержавеющей стали и алюминия (чтобы наконец-то его можно было разбить). 

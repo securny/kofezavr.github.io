@@ -5,9 +5,9 @@ date: 2024-10-15
 categories: [Кофейные новости]
 tags: [новости,olympia,olympia express mina]
 telegram-discussion: coffeesaurus/1206
+images:
+  - /assets/img/posts/24/10/olympia.webp
 --- 
-![Ручная кофемашина Olympia Express Mina](/assets/img/posts/24/10/olympia.jpg)
-
 Я пропустил, а оказывается у Flair появился ещё один конкурент, в этот раз [от Olympia](https://www.olympia-express.ch/en/products/mina)!
 
 Вот что известно про эту кофемашину:

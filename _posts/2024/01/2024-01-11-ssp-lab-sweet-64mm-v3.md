@@ -5,9 +5,9 @@ date: 2024-01-11
 categories: [Кофейные новости]
 tags: [новости,жернова]
 telegram-discussion: coffeesaurus/917
+images:
+  - /assets/img/posts/24/01/ls-v3.webp
 --- 
-![SSP Lab Sweet 64mm V3](/assets/img/posts/24/01/ls-v3.jpg)
-
 Через неделю появится в продаже 3-я версия (V3) жерновов SSP Lab Sweet 64mm.
 
 В отличие от 2-й версии (V2), которая больше предназначена для фильтр-кофе, V3 лучше адаптирована для эспрессо. 

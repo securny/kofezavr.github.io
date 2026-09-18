@@ -6,9 +6,7 @@ categories: [Блог]
 tags: [блог,acaia,acaia pearl,весы,кофейные весы]
 telegram-discussion: coffeesaurus/915
 --- 
-<video width="100%" preload="auto" muted controls>
-    <source src="/assets/img/posts/24/01/acaia-pearl.mp4" type="video/mp4"/>
-</video>
+[▶️ Видео в Telegram](https://t.me/coffeesaurus/915)
 
 С моими весами проблема: показывают рандомные значения. 
 

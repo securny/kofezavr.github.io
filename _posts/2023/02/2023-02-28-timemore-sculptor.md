@@ -5,9 +5,9 @@ date: 2023-02-28
 categories: [Кофейные новости]
 tags: [новости,timemore,timemore sculptor,кофемолка]
 telegram-discussion: coffeesaurus/602
+images:
+  - /assets/img/posts/23/02/sculptor.webp
 --- 
-![Кофемолка Timemore Sculptor](/assets/img/posts/23/02/sculptor.jpg)
-
 Объявлена дата запуска кампании на кикстартере. Кофемолки можно будет предзаказать начиная с 14-го марта 19:00 (МСК).
 
 За 15 минут до начала кампании покупка кофемолки станет доступна для участников [специальной группы](https://www.facebook.com/groups/www.timemore.sculptor) в фе\*\*буке.

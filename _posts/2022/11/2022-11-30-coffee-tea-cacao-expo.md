@@ -5,9 +5,9 @@ date: 2022-11-30
 categories: [Кофейные новости]
 tags: [новости,coffee tea cacao expo,выставка]
 telegram-discussion: coffeesaurus/539
+images:
+  - /assets/img/posts/22/11/coffeeteacacaoexpo.webp
 --- 
-![Coffee Tea Cacao Russian Expo](/assets/img/posts/22/11/coffeeteacacaoexpo.jpg)
-
 Десятая бизнес-выставка и конференция [Coffee Tea Cacao Russian Expo (CTCRE)](https://coffeeteacacaoexpo.ru/ru/visitors/visitorregistration) пройдет в Москве с 12 по 14 апреля 2023 г. на площадке Main Stage. 
 
 Для тех, кто не в курсе, это одна из крупнейших выставок в области кофе, чая, какао и шоколада. Там каждый раз собирается много разных интересных компаний, в том числе обжарщиков кофе, импортеров кофейного оборудования, производителей чая, шоколада и т.д. 

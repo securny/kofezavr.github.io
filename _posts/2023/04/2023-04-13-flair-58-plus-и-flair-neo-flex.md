@@ -5,9 +5,9 @@ date: 2023-04-13
 categories: [Кофейные новости]
 tags: [новости,flair,flair 58 plus,flair neo flex]
 telegram-discussion: coffeesaurus/660
+images:
+  - /assets/img/posts/23/04/flair.webp
 --- 
-![Flair 58 Plus и Flair NEO Flex](/assets/img/posts/23/04/flair.jpg)
-
 Флэир выпустили сразу две новинки.
 
 Первая – модель [58 Плюс](https://www.youtube.com/watch?v=kAVOD2JV5Nc). От обычной модели 58 отличается наличием зеркальца на магните, корзиной Extra High Flow, темпером, деревянными ручками, черным манометром и черными винтиками вместо блестящих металлических. Модель 58 Плюс обойдется в 640$.

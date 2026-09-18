@@ -5,9 +5,9 @@ date: 2024-10-11
 categories: [Кофейные новости]
 tags: [новости,весы, весы для кофе, futula, futula kitchen scale 3, ck811, ck811ble, kofezavr scale]
 telegram-discussion: coffeesaurus/1197
+images:
+  - /assets/img/posts/24/10/kofezavr-scale.webp
 --- 
-![Приложение Kofezavr Scale появилось в App Store](/assets/img/posts/24/10/kofezavr-scale.jpg)
-
 Приложение [Kofezavr Scale](https://coffeescaleapp.kofezavr.ru/) позволяет отслеживать параметры заваривания в реальном времени, а также показывает графики профиля заваривания. 
 
 При этом приложение работает с [недорогими весами](https://t.me/coffeesaurus/1095) `Futula Kitchen Scale 3`, которые на озоне продаются за тысячу рублей! 

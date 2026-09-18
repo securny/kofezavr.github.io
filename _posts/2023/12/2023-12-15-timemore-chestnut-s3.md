@@ -5,9 +5,9 @@ date: 2023-12-15
 categories: [Кофейные новости]
 tags: [новости,кофемолка,ручная кофемолка,timemore,timemore chestnut s3]
 telegram-discussion: coffeesaurus/891
+images:
+  - /assets/img/posts/23/12/timemore-s3-01.webp
 --- 
-![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-01.jpg)
-
 Появилась информация о новой ручной кофемолке от Тайммор. 
 
 Вот, что про неё известно:
@@ -22,12 +22,12 @@ telegram-discussion: coffeesaurus/891
 Что думаете? Надо брать?
 
 <!--more-->
-![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-02.jpg)
+![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-02.webp)
 
-![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-03.jpg)
+![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-03.webp)
 
-![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-04.jpg)
+![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-04.webp)
 
-![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-05.jpg)
+![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-05.webp)
 
-![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-06.jpg)
+![Ручная кофемолка Timemore Chestnut S3](/assets/img/posts/23/12/timemore-s3-06.webp)
