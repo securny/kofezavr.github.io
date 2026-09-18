@@ -2,7 +2,9 @@
 ---
 
 @use 'abstracts/variables' with (
-  $theme: '{{ site.theme_mode }}'
+  $theme: '{{ site.theme_mode }}',
+  $font-family-base: (Roboto, sans-serif),
+  $font-family-heading: ('Golos Text', Roboto, sans-serif)
 );
 
 /* prettier-ignore */
@@ -14,37 +16,73 @@
 
 /* append your custom style below */
 
-/* --- kofezavr.ru: typography carried over from the 5.2.1 fork --- */
+/* --- kofezavr.ru: typography --- */
+/* Headings: Golos Text (fonts in _data/origin/cors.yml), fluid sizes, no faux bold. */
 
-body {
-  font-family: Roboto, sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 600;
+  font-synthesis: none;
+  text-wrap: balance;
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: clamp(1.5rem, 1.1rem + 1.6vw, 2.25rem); /* 24 -> 36px */
+  font-weight: 700;
+  line-height: 1.18;
+  letter-spacing: -0.01em;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: clamp(1.375rem, 1.1rem + 0.8vw, 1.75rem); /* 22 -> 28px */
+  line-height: 1.25;
 }
 
 h3 {
-  font-size: 1.5rem;
-}
-
-h4 {
   font-size: 1.25rem;
 }
 
-h5 {
-  font-size: 1.15rem;
+h4 {
+  font-size: 1.125rem;
 }
 
-/* home page: post title (custom _layouts/home.html) */
+h5 {
+  font-size: 1.05rem;
+}
+
+/* home page: post title (custom _layouts/home.html), same look as the post h1, one step smaller */
 #post-list .post-title {
-  font-size: 2.5rem;
-  font-weight: 900;
-  text-align: center;
+  font-size: clamp(1.375rem, 1rem + 1.2vw, 1.875rem); /* 22 -> 30px */
+  font-weight: 700;
+  line-height: 1.18;
+  letter-spacing: -0.01em;
+}
+
+#post-list .post-title a {
+  color: var(--heading-color);
+}
+
+#post-list .post-title a:hover {
+  color: var(--link-color);
+}
+
+/* theme hard-codes Lato here, which is no longer loaded */
+.pagination,
+kbd,
+#archives .day {
+  font-family: inherit;
+}
+
+#topbar-title {
+  font-family: 'Golos Text', Roboto, sans-serif;
+}
+
+/* home, mobile: let date + categories wrap instead of being cut with an ellipsis */
+#post-list .card .card-body .post-meta > div:first-child {
+  white-space: normal;
 }
 
 /* black text in the light scheme */
@@ -61,6 +99,12 @@ h5 {
     --text-color: black;
     --heading-color: black;
   }
+}
+
+/* one background: main area and topbar use the sidebar color (both schemes) */
+body {
+  --main-bg: var(--sidebar-bg);
+  --topbar-bg: var(--sidebar-bg);
 }
 
 /* --- kofezavr.ru: YouTube embeds and "play" buttons used in posts --- */

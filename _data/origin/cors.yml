@@ -1,0 +1,4 @@
+# Deep-merged over the theme's _data/origin/cors.yml: only webfonts is overridden.
+# Golos Text for headings (real Cyrillic, real 600/700), Roboto for body.
+# Replaces the theme's Lato + Source Sans Pro (Lato has no Cyrillic, Source Sans Pro was unused).
+webfonts: https://fonts.googleapis.com/css2?family=Golos+Text:wght@600;700&family=Roboto:ital,wght@0,400;0,700;0,900;1,400&display=swap
