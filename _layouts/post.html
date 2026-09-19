@@ -11,7 +11,9 @@ tail_includes:
 
 {% include toc-status.html %}
 
-<article class="kz-post-card" data-toc="{{ enable_toc }}">
+<article class="px-1" data-toc="{{ enable_toc }}">
+  <!-- white card: header and content only; tail and comments stay on the page background -->
+  <div class="kz-post-card">
   <header>
     <h1 data-toc-skip>{{ page.title }}</h1>
     {% if page.description %}
@@ -122,6 +124,8 @@ tail_includes:
   <div class="content">
     {{ content }}
   </div>
+  </div>
+  <!-- .kz-post-card -->
 
   <div class="post-tail-wrapper text-muted">
     <div class="d-flex justify-content-between align-items-center gap-3 mb-3">
@@ -170,7 +174,7 @@ tail_includes:
   </div>
   <!-- div.post-tail-wrapper -->
 
-  <!-- comments: inside the card (moved from _layouts/default.html) -->
+  <!-- comments (moved from _layouts/default.html) -->
   <div id="comments">
     {% include comment.html %}
   </div>
