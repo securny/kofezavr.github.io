@@ -11,7 +11,7 @@ tail_includes:
 
 {% include toc-status.html %}
 
-<article class="px-1" data-toc="{{ enable_toc }}">
+<article class="kz-post-card" data-toc="{{ enable_toc }}">
   <header>
     <h1 data-toc-skip>{{ page.title }}</h1>
     {% if page.description %}
@@ -169,4 +169,9 @@ tail_includes:
     <!-- .post-tail-bottom -->
   </div>
   <!-- div.post-tail-wrapper -->
+
+  <!-- comments: inside the card (moved from _layouts/default.html) -->
+  <div id="comments">
+    {% include comment.html %}
+  </div>
 </article>

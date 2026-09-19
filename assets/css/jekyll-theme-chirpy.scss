@@ -141,6 +141,25 @@ body {
   --topbar-bg: var(--sidebar-bg);
 }
 
+/* post: the whole post with comments in a white card, like the home feed */
+.kz-post-card {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  border-radius: 10px;
+  background: var(--card-bg);
+  box-shadow: var(--card-shadow);
+}
+
+.kz-post-card > header > h1 {
+  margin-top: 0;
+}
+
+@media (min-width: 768px) {
+  .kz-post-card {
+    padding: 1.75rem 1.75rem 1.25rem;
+  }
+}
+
 /* --- kofezavr.ru: YouTube embeds and "play" buttons used in posts --- */
 
 .youtube-wrapper {
