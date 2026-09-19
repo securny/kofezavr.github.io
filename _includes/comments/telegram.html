@@ -1,5 +1,5 @@
 <!-- Telegram Comments: widget attached to the channel discussion of the post -->
-<!-- Loads only after consent (_includes/cookie-consent.html); until then a link to the discussion is shown -->
+<!-- Loads only after consent (_includes/cookie-consent.html); the link to the discussion is always shown -->
 <!-- The iframe bottom (Telegram login block, 78px) is clipped: no foreign auth on the site (149-FZ, KoAP 13.55) -->
 {% assign tg = include.id | default: page.telegram-discussion %}
 {% if tg %}
@@ -21,7 +21,6 @@
       s.setAttribute('data-comments-limit', '3');
       s.setAttribute('data-colorful', '1');
       document.getElementById('kz-tg-comments').appendChild(s);
-      document.getElementById('kz-tg-link').remove();
     });
   </script>
 {% endif %}
