@@ -85,8 +85,10 @@ kbd,
   white-space: normal;
 }
 
-/* home: "continue + comments" button under each post (replaces the Telegram widget in the feed) */
-#post-list .post-more {
+/* home: "continue + comments" button under each post (replaces the Telegram widget in the feed);
+   post: "discuss in Telegram" button while the widget has no consent */
+#post-list .post-more,
+#comments .post-more {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
@@ -100,16 +102,20 @@ kbd,
 }
 
 #post-list .post-more:hover,
-#post-list .post-more:focus-visible {
+#post-list .post-more:focus-visible,
+#comments .post-more:hover,
+#comments .post-more:focus-visible {
   background-color: var(--sidebar-hover-bg);
 }
 
-#post-list .post-more .fa-arrow-right {
+#post-list .post-more .fa-arrow-right,
+#comments .post-more .fa-arrow-right {
   font-size: 0.85em;
   transition: transform 150ms ease-out;
 }
 
-#post-list .post-more:hover .fa-arrow-right {
+#post-list .post-more:hover .fa-arrow-right,
+#comments .post-more:hover .fa-arrow-right {
   transform: translateX(2px);
 }
 
