@@ -11,7 +11,11 @@
     {{- '©' }}
     <time>{{ 'now' | date: '%Y' }}</time>
 
-    {{ site.social.name }}.
+    {% if site.social.links %}
+      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+    {% else %}
+      <em class="fst-normal">{{ site.social.name }}</em>.
+    {% endif %}
     <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru">Все права защищены (CC BY-NC-ND).</a>
 
     <a href="{{ '/privacy/' | relative_url }}">Политика конфиденциальности</a>
