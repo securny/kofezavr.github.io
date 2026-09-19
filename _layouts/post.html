@@ -142,11 +142,16 @@ tail_includes:
 
       <!-- "Edit this post" link -->
       {% include post-edit.html lang=lang %}
+
+      <!-- sharing in the categories row (license moved to the footer) -->
+      <div class="ms-auto">
+        {% include post-sharing.html lang=lang %}
+      </div>
     </div>
 
     <!-- tags -->
     {% if page.tags.size > 0 %}
-      <div class="post-tags">
+      <div class="post-tags pb-2">
         <i class="fa fa-tags fa-fw me-1"></i>
         {% for tag in page.tags %}
           <a
@@ -158,19 +163,6 @@ tail_includes:
         {% endfor %}
       </div>
     {% endif %}
-
-    <div
-      class="
-        post-tail-bottom
-        d-flex justify-content-between align-items-center mt-5 pb-2
-      "
-    >
-      <!-- license moved to the footer; empty wrapper keeps sharing on the right -->
-      <div class="license-wrapper"></div>
-
-      {% include post-sharing.html lang=lang %}
-    </div>
-    <!-- .post-tail-bottom -->
   </div>
   <!-- div.post-tail-wrapper -->
 
