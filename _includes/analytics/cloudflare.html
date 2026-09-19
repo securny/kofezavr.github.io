@@ -1,0 +1,10 @@
+<!-- Cloudflare Web Analytics: loads only after consent, see _includes/cookie-consent.html -->
+<script>
+  (window.kzAnalytics = window.kzAnalytics || []).push(function () {
+    var s = document.createElement('script');
+    s.defer = true;
+    s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+    s.setAttribute('data-cf-beacon', '{"token": "{{ site.analytics.cloudflare.id }}"}');
+    document.head.appendChild(s);
+  });
+</script>

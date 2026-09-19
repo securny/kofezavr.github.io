@@ -52,8 +52,8 @@ logo: /assets/img/ava.png
 
 # Web Analytics Settings
 analytics:
-  google:
-    id: G-G3JC74744C # fill in your Google Analytics ID
+  # google: # disabled: cross-border transfer to the US (152-FZ), Metrika covers analytics
+  #   id: G-G3JC74744C
   yandex:
     id: 89886280 # Yandex.Metrika ID, custom provider: _includes/analytics/yandex.html
   goatcounter:
