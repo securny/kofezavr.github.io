@@ -53,9 +53,9 @@ permalink: /privacy/
 
 Посетитель вправе отозвать согласие на обработку.
 
-## 8. Как отозвать согласие
+## 8. Как дать или отозвать согласие
 
-Нажмите кнопку внизу страницы: аналитика и виджет комментариев Telegram перестанут загружаться на Сайте в этом браузере. Чтобы удалить уже сохранённые cookie, очистите cookie сайта kofezavr.ru в настройках браузера.
+Нажмите кнопку внизу страницы. После отзыва аналитика и виджет комментариев Telegram перестанут загружаться на Сайте в этом браузере. Чтобы удалить уже сохранённые cookie, очистите cookie сайта kofezavr.ru в настройках браузера.
 
 ## 9. Защита данных
 
@@ -68,21 +68,41 @@ permalink: /privacy/
 ## Согласие на обработку данных
 
 <p>
-  <button type="button" class="btn btn-sm btn-outline-secondary" id="kz-consent-revoke">Отозвать согласие</button>
-  <button type="button" class="btn btn-sm btn-primary" id="kz-consent-approve">Дать согласие</button>
-  <span id="kz-consent-revoked" class="ms-2" hidden>Согласие отозвано.</span>
-  <span id="kz-consent-approved" class="ms-2" hidden>Вы согласились на обработку данных, в том числе их передачу за рубеж.</span>
+  <button type="button" class="btn btn-sm" id="kz-consent-toggle" hidden></button>
+  <span id="kz-consent-state" class="ms-2"></span>
 </p>
 
 <script>
-  document.getElementById('kz-consent-revoke').addEventListener('click', function () {
-    try { localStorage.setItem('kz-consent', 'no'); } catch (e) {}
-    document.getElementById('kz-consent-revoked').hidden = false;
-    document.getElementById('kz-consent-approved').hidden = true;
-  });
-  document.getElementById('kz-consent-approve').addEventListener('click', function () {
-    try { localStorage.setItem('kz-consent', 'yes'); } catch (e) {}
-    document.getElementById('kz-consent-revoked').hidden = true;
-    document.getElementById('kz-consent-approved').hidden = false;
-  });
+  (function () {
+    var KEY = 'kz-consent';
+    var btn = document.getElementById('kz-consent-toggle');
+    var state = document.getElementById('kz-consent-state');
+
+    function get() {
+      try { return localStorage.getItem(KEY); } catch (e) { return null; }
+    }
+
+    function render() {
+      var yes = get() === 'yes';
+      btn.textContent = yes ? 'Отозвать согласие' : 'Дать согласие';
+      btn.className = 'btn btn-sm ' + (yes ? 'btn-outline-secondary' : 'btn-primary');
+      state.textContent = yes ? 'Согласие дано.' : 'Согласие не дано.';
+      btn.hidden = false;
+    }
+
+    btn.addEventListener('click', function () {
+      var next = get() === 'yes' ? 'no' : 'yes';
+      try { localStorage.setItem(KEY, next); } catch (e) {}
+      var banner = document.getElementById('kz-consent');
+      if (banner) { banner.hidden = true; }
+      if (next === 'yes') {
+        var loaders = window.kzAnalytics || [];
+        window.kzAnalytics = [];
+        loaders.forEach(function (f) { f(); });
+      }
+      render();
+    });
+
+    render();
+  })();
 </script>
