@@ -78,9 +78,11 @@ permalink: /privacy/
   document.getElementById('kz-consent-revoke').addEventListener('click', function () {
     try { localStorage.setItem('kz-consent', 'no'); } catch (e) {}
     document.getElementById('kz-consent-revoked').hidden = false;
+    document.getElementById('kz-consent-approved').hidden = true;
   });
   document.getElementById('kz-consent-approve').addEventListener('click', function () {
     try { localStorage.setItem('kz-consent', 'yes'); } catch (e) {}
+    document.getElementById('kz-consent-revoked').hidden = true;
     document.getElementById('kz-consent-approved').hidden = false;
   });
 </script>
