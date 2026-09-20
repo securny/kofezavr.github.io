@@ -139,7 +139,7 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: false # The option for PWA feature (installable)
+  enabled: true # loads app.min.js; with cache disabled the service worker only purges old caches
   cache:
     enabled: false # The option for PWA offline cache
     deny_paths:
