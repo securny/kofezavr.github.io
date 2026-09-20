@@ -68,7 +68,9 @@ permalink: /privacy/
 ## Согласие на обработку данных
 
 <p>
-  <span id="kz-consent-state" class="ms-2"></span><br/>
+  <span id="kz-consent-state" class="ms-2"></span>
+</p>
+<p> 
   <button type="button" class="btn btn-sm" id="kz-consent-toggle" hidden></button>
 </p>
 
