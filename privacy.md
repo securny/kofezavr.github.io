@@ -69,9 +69,9 @@ permalink: /privacy/
 
 <p>
   <button type="button" class="btn btn-sm btn-outline-secondary" id="kz-consent-revoke">Отозвать согласие</button>
-  <button type="button" class="btn btn-sm btn-primary" id="kz-consent-approve">Дать согласие и принять политику</button>
+  <button type="button" class="btn btn-sm btn-primary" id="kz-consent-approve">Дать согласие</button>
   <span id="kz-consent-revoked" class="ms-2" hidden>Согласие отозвано.</span>
-  <span id="kz-consent-approve" class="ms-2" hidden>Вы согласились на обработку данных, в том числе их передачу за рубеж.</span>
+  <span id="kz-consent-approved" class="ms-2" hidden>Вы согласились на обработку данных, в том числе их передачу за рубеж.</span>
 </p>
 
 <script>
@@ -81,6 +81,6 @@ permalink: /privacy/
   });
   document.getElementById('kz-consent-approve').addEventListener('click', function () {
     try { localStorage.setItem('kz-consent', 'yes'); } catch (e) {}
-    document.getElementById('kz-consent-approve').hidden = false;
+    document.getElementById('kz-consent-approved').hidden = false;
   });
 </script>
