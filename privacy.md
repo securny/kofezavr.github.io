@@ -68,8 +68,8 @@ permalink: /privacy/
 ## Согласие на обработку данных
 
 <p>
+  <span id="kz-consent-state" class="ms-2"></span><br/>
   <button type="button" class="btn btn-sm" id="kz-consent-toggle" hidden></button>
-  <span id="kz-consent-state" class="ms-2"></span>
 </p>
 
 <script>
@@ -86,7 +86,7 @@ permalink: /privacy/
       var yes = get() === 'yes';
       btn.textContent = yes ? 'Отозвать согласие' : 'Дать согласие';
       btn.className = 'btn btn-sm ' + (yes ? 'btn-outline-secondary' : 'btn-primary');
-      state.textContent = yes ? 'Согласие дано.' : 'Согласие не дано.';
+      state.textContent = yes ? 'Согласие дано, комментарии отображаются.' : 'Согласие не дано, комментарии скрыты.';
       btn.hidden = false;
     }
 
