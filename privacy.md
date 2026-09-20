@@ -4,7 +4,7 @@ title: Политика обработки персональных данных
 permalink: /privacy/
 ---
 
-Редакция от 19 сентября 2026 года.
+Редакция от 20 сентября 2026 года.
 
 ## 1. Общие положения
 
@@ -51,29 +51,11 @@ permalink: /privacy/
 
 ## 7. Права посетителя
 
-Посетитель вправе:
-
-- получить сведения об обработке своих персональных данных;
-- потребовать уточнения, блокирования или уничтожения данных;
-- отозвать согласие на обработку.
-
-Запрос направляется на [hello@kofezavr.ru](mailto:hello@kofezavr.ru). Оператор отвечает в течение 10 рабочих дней с даты получения запроса.
+Посетитель вправе отозвать согласие на обработку.
 
 ## 8. Как отозвать согласие
 
-Нажмите кнопку ниже: аналитика и виджет комментариев Telegram перестанут загружаться на Сайте в этом браузере. Чтобы удалить уже сохранённые cookie, очистите cookie сайта kofezavr.ru в настройках браузера.
-
-<p>
-  <button type="button" class="btn btn-sm btn-outline-secondary" id="kz-consent-revoke">Отозвать согласие</button>
-  <span id="kz-consent-revoked" class="ms-2" hidden>Согласие отозвано.</span>
-</p>
-
-<script>
-  document.getElementById('kz-consent-revoke').addEventListener('click', function () {
-    try { localStorage.setItem('kz-consent', 'no'); } catch (e) {}
-    document.getElementById('kz-consent-revoked').hidden = false;
-  });
-</script>
+Нажмите кнопку внизу страницы: аналитика и виджет комментариев Telegram перестанут загружаться на Сайте в этом браузере. Чтобы удалить уже сохранённые cookie, очистите cookie сайта kofezavr.ru в настройках браузера.
 
 ## 9. Защита данных
 
@@ -82,3 +64,23 @@ permalink: /privacy/
 ## 10. Изменение Политики
 
 Оператор может изменять Политику. Новая редакция действует с момента публикации на этой странице.
+
+## Согласие на обработку данных
+
+<p>
+  <button type="button" class="btn btn-sm btn-outline-secondary" id="kz-consent-revoke">Отозвать согласие</button>
+  <button type="button" class="btn btn-sm btn-primary" id="kz-consent-approve">Дать согласие и принять политику</button>
+  <span id="kz-consent-revoked" class="ms-2" hidden>Согласие отозвано.</span>
+  <span id="kz-consent-approve" class="ms-2" hidden>Вы согласились на обработку данных, в том числе их передачу за рубеж.</span>
+</p>
+
+<script>
+  document.getElementById('kz-consent-revoke').addEventListener('click', function () {
+    try { localStorage.setItem('kz-consent', 'no'); } catch (e) {}
+    document.getElementById('kz-consent-revoked').hidden = false;
+  });
+  document.getElementById('kz-consent-approve').addEventListener('click', function () {
+    try { localStorage.setItem('kz-consent', 'yes'); } catch (e) {}
+    document.getElementById('kz-consent-approve').hidden = false;
+  });
+</script>
